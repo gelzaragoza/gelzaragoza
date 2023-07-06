@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there, I'm [Angelica Zaragoza](https://gelzaragoza.netlify.app) 👋<br><br>## About Me<br><br>- 🔭 I’m currently working on Property Search Website<br>- 🌱 I’m currently learning React, TypeScript, Tailwind CSS, and Laravel<br>- 👯 I’m looking to collaborate on Frontend Projects<br>- 💬 Ask me about anything ngl.link/gelzaragoza<br><br>## Skills<br><br>- Programming languages: HTML, JavaScript, C<br>- Frameworks and libraries: React, TypeScript, Tailwind CSS, MUI, MongoDB, Laravel<br>- Tools and technologies: Git, Docker, Azure<br><br><br>## Connect with Me<br><br>- Website: https://gelzaragoza.netlify.app<br>- LinkedIn: https://www.linkedin.com/in/angelica-zaragoza/<br>- Twitter: https://twitter.com/gelzaragoza<br>
+# Hi there, I'm [Angelica Zaragoza](https://gelzaragoza.netlify.app) 👋<br><br>## About Me<br><br>- 🔭 I’m currently working on a Property Search Website<br>- 🌱 I’m currently learning React, TypeScript, Tailwind CSS, and Laravel<br>- 👯 I’m looking to collaborate on Frontend Projects<br>- 💬 Ask me about anything ngl.link/gelzaragoza<br><br>## Skills<br><br>- Programming languages: HTML, JavaScript, C<br>- Frameworks and libraries: React, TypeScript, Tailwind CSS, MUI, MongoDB, Laravel<br>- Tools and technologies: Git, Docker, Azure<br><br><br>## Connect with Me<br><br>- Website: https://gelzaragoza.netlify.app<br>- LinkedIn: https://www.linkedin.com/in/angelica-zaragoza/<br>- Twitter: https://twitter.com/gelzaragoza<br>
 
 
 ## 🌐 Socials:
@@ -17,9 +17,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gelzaragoza&icon=6&color=11)](https://visitcount.itsvg.in)
