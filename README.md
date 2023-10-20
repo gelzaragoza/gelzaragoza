@@ -1,5 +1,5 @@
 ## 💫 About Me:
-## Hi there, I'm [Angelica Zaragoza](https://gelzaragoza.netlify.app) 👋
+## Hi there, I'm [Angelica Zaragoza](https://angelicazaragoza.vercel.app) 👋
 
 ### About Me:
 - 🔭 I’m currently working on a Property Search Website
